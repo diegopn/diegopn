@@ -1,16 +1,41 @@
-## Hi there 👋
+# Diego Pereira do Nascimento
 
-<!--
-**diegopn/diegopn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estratégia digital, conteúdo e projetos com propósito
 
-Here are some ideas to get you started:
+Atuo na criação, organização e evolução de projetos digitais, unindo conteúdo, SEO, WordPress e visão de produto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, concilio minha trajetória profissional com o mestrado no PPGI, ampliando meu interesse por pesquisa aplicada, organização do conhecimento e impacto positivo por meio de projetos digitais.
+
+## Minhas frentes
+
+- Estratégia e organização de conteúdo
+- SEO e presença digital
+- Projetos editoriais e educacionais
+- WordPress como plataforma de publicação
+- Pesquisa acadêmica e inovação
+
+## Projetos em destaque
+
+### 🎓 Mestrado/PPGI
+
+- [CanecaShopp](https://github.com/diegopn/CanecaShopp) — projeto acadêmico desenvolvido para a disciplina de Engenharia de Software.
+
+### 📚 Projeto pessoal
+
+- [Teológico](https://github.com/diegopn/teologico-club) — enciclopédia online com conteúdo acessível sobre Bíblia e Teologia.
+- [Portfólio](https://github.com/diegopn/diegopn.github.io) — apresentação da minha trajetória, experiências e projetos.
+
+### 🔌 Plugins WordPress
+
+- [Elementor Cases](https://github.com/diegopn/elementor-cases-master) — widget para apresentação de cases em carrossel.
+- [Elementor Testimonial](https://github.com/diegopn/elementor-testimonial) — widget para apresentação de depoimentos em carrossel.
+
+## Atualmente
+
+Estou concentrado no mestrado, na evolução da minha pesquisa e na construção de projetos que transformem informação em experiências mais claras, úteis e acessíveis.
+
+## Conecte-se comigo
+
+- [Portfólio](https://diegopn.github.io/)
+- [Teológico](https://teologico.club/)
+- [LinkedIn](https://www.linkedin.com/in/diegopn/)
