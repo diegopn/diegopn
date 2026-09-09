@@ -19,6 +19,7 @@ Atualmente, concilio minha trajetória profissional com o mestrado no PPGI, ampl
 ### 🎓 Mestrado/PPGI
 
 - [RepositoriosGithubIAorML](https://github.com/diegopn/RepositoriosGithubIAorML) — Primeira etapa do estudo para aula de Experimentação em Computação Aplicada: consulta a GitHub REST API e gera um CSV com os repositórios aprovados.
+- [GitHubPrivacyExperiment](https://github.com/diegopn/GitHubPrivacyExperiment) — Coleta histórica da documentação de privacidade dos repositórios selecionados para o estudo.
 
 ### 📚 Projeto pessoal
 
