@@ -18,7 +18,7 @@ Atualmente, concilio minha trajetória profissional com o mestrado no PPGI, ampl
 
 ### 🎓 Mestrado/PPGI
 
-- [CanecaShopp](https://github.com/diegopn/CanecaShopp) — projeto acadêmico desenvolvido para a disciplina de Engenharia de Software.
+- [RepositoriosGithubIAorML](https://github.com/diegopn/RepositoriosGithubIAorML) — Primeira etapa do estudo para aula de Experimentação em Computação Aplicada: consulta a GitHub REST API e gera um CSV com os repositórios aprovados.
 
 ### 📚 Projeto pessoal
 
