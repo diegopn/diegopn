@@ -22,7 +22,6 @@ Atualmente, concilio minha trajetória profissional com o mestrado no PPGI, ampl
 
 ### 📚 Projeto pessoal
 
-- [Teológico](https://github.com/diegopn/teologico-club) — enciclopédia online com conteúdo acessível sobre Bíblia e Teologia.
 - [Portfólio](https://github.com/diegopn/diegopn.github.io) — apresentação da minha trajetória, experiências e projetos.
 
 ### 🔌 Plugins WordPress
