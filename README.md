@@ -18,8 +18,7 @@ Atualmente, concilio minha trajetória profissional com o mestrado no PPGI, ampl
 
 ### 🎓 Mestrado/PPGI
 
-- [RepositoriosGithubIAorML](https://github.com/diegopn/RepositoriosGithubIAorML) — Primeira etapa do estudo para aula de Experimentação em Computação Aplicada: consulta a GitHub REST API e gera um CSV com os repositórios aprovados.
-- [GitHubPrivacyExperiment](https://github.com/diegopn/GitHubPrivacyExperiment) — Coleta histórica da documentação de privacidade dos repositórios selecionados para o estudo.
+- [github-ai-ml-privacy-documentation-gdpr](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr) — Repositório principal do estudo "Documentação de Privacidade em Projetos Open Source de IA/ML no GitHub: Comparação Antes e Após o Início da Aplicação da GDPR", reunindo a documentação de privacidade dos repositórios relacionados a Inteligência Artificial e Aprendizado de Máquina, com foco na análise sob a perspectiva da GDPR.
 
 ### 📚 Projeto pessoal
 
