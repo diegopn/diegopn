@@ -1,37 +1,32 @@
 # Diego Pereira do Nascimento
 
-### Estratégia digital, conteúdo e projetos com propósito
+### Liderança de projetos, Engenharia de Software e pesquisa aplicada
 
-Atuo na criação, organização e evolução de projetos digitais, unindo conteúdo, SEO, WordPress e visão de produto.
+Mestrando no PPGI, com foco atual em pesquisa aplicada e na organização de projetos de tecnologia, open source e produção acadêmica.
 
-Atualmente, concilio minha trajetória profissional com o mestrado no PPGI, ampliando meu interesse por pesquisa aplicada, organização do conhecimento e impacto positivo por meio de projetos digitais.
+Investigo documentação de privacidade em projetos open source de Inteligência Artificial e Aprendizado de Máquina no GitHub, combinando coleta histórica, classificação documental, análise estatística e publicação de resultados reproduzíveis.
 
-## Minhas frentes
+## Focos atuais
 
-- Estratégia e organização de conteúdo
-- SEO e presença digital
-- Projetos editoriais e educacionais
-- WordPress como plataforma de publicação
-- Pesquisa acadêmica e inovação
+- Liderança e organização de projetos de tecnologia e pesquisa
+- Engenharia de Software e práticas de desenvolvimento reproduzível
+- Inteligência Artificial e Aprendizado de Máquina (IA/ML)
+- Privacidade e documentação em ecossistemas open source
+- Projetos acadêmicos, análise de dados e comunicação de resultados
 
 ## Projetos em destaque
 
-### 🎓 Mestrado/PPGI
+### Pesquisa
 
-- [github-ai-ml-privacy-documentation-gdpr](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr) — Repositório principal do estudo "Documentação de Privacidade em Projetos Open Source de IA/ML no GitHub: Comparação Antes e Após o Início da Aplicação da GDPR", reunindo a documentação de privacidade dos repositórios relacionados a Inteligência Artificial e Aprendizado de Máquina, com foco na análise sob a perspectiva da GDPR.
+- [github-ai-ml-privacy-documentation-gdpr](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr) — experimento em R que seleciona uma amostra de repositórios públicos de IA/ML, coleta documentação histórica de privacidade, classifica evidências, realiza análise estatística e publica os resultados em uma página Quarto no GitHub Pages.
 
-### 📚 Projeto pessoal
+### Portfólio
 
-- [Portfólio](https://github.com/diegopn/diegopn.github.io) — apresentação da minha trajetória, experiências e projetos.
-
-### 🔌 Plugins WordPress
-
-- [Elementor Cases](https://github.com/diegopn/elementor-cases-master) — widget para apresentação de cases em carrossel.
-- [Elementor Testimonial](https://github.com/diegopn/elementor-testimonial) — widget para apresentação de depoimentos em carrossel.
+- [diegopn.github.io](https://github.com/diegopn/diegopn.github.io) — portfólio pessoal com informações profissionais, formação, habilidades e projetos.
 
 ## Atualmente
 
-Estou concentrado no mestrado, na evolução da minha pesquisa e na construção de projetos que transformem informação em experiências mais claras, úteis e acessíveis.
+Concentrado no mestrado no PPGI, na evolução da pesquisa sobre privacidade em projetos open source de IA/ML e na liderança e organização de projetos que transformem dados e conhecimento em resultados claros, úteis e reproduzíveis.
 
 ## Conecte-se comigo
 
