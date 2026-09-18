@@ -1,35 +1,39 @@
 # Diego Pereira do Nascimento
 
-### Liderança de projetos, Engenharia de Software e pesquisa aplicada
+**Project Leadership • Software Engineering • AI/ML Privacy Research**
 
-Mestrando no PPGI, com foco atual em pesquisa aplicada e na organização de projetos de tecnologia, open source e produção acadêmica.
+Master's student at PPGI, focused on applied research and on organizing technology, open-source, and academic projects.
 
-Investigo documentação de privacidade em projetos open source de Inteligência Artificial e Aprendizado de Máquina no GitHub, combinando coleta histórica, classificação documental, análise estatística e publicação de resultados reproduzíveis.
+My current research investigates privacy documentation in open-source Artificial Intelligence and Machine Learning projects on GitHub. It combines historical data collection, document classification, statistical analysis, and reproducible publication of results.
 
-## Focos atuais
+## Current focus
 
-- Liderança e organização de projetos de tecnologia e pesquisa
-- Engenharia de Software e práticas de desenvolvimento reproduzível
-- Inteligência Artificial e Aprendizado de Máquina (IA/ML)
-- Privacidade e documentação em ecossistemas open source
-- Projetos acadêmicos, análise de dados e comunicação de resultados
+- Leadership and coordination of technology and research projects
+- Software Engineering and reproducible development practices
+- Artificial Intelligence and Machine Learning (AI/ML)
+- Privacy documentation in open-source ecosystems
+- Academic projects, data analysis, and research communication
 
-## Projetos em destaque
+## Research
 
-### Pesquisa
+### Privacy documentation in open-source AI/ML projects
 
-- [github-ai-ml-privacy-documentation-gdpr](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr) — experimento em R que seleciona uma amostra de repositórios públicos de IA/ML, coleta documentação histórica de privacidade, classifica evidências, realiza análise estatística e publica os resultados em uma página Quarto no GitHub Pages.
+[github-ai-ml-privacy-documentation-gdpr](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr) — an R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
 
-### Portfólio
+The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility.
 
-- [diegopn.github.io](https://github.com/diegopn/diegopn.github.io) — portfólio pessoal com informações profissionais, formação, habilidades e projetos.
+## Selected project
 
-## Atualmente
+- [diegopn.github.io](https://github.com/diegopn/diegopn.github.io) — personal portfolio with professional information, education, skills, and projects.
 
-Concentrado no mestrado no PPGI, na evolução da pesquisa sobre privacidade em projetos open source de IA/ML e na liderança e organização de projetos que transformem dados e conhecimento em resultados claros, úteis e reproduzíveis.
+## Currently
 
-## Conecte-se comigo
+- Completing my master's research at PPGI
+- Evolving the study of privacy documentation in open-source AI/ML projects
+- Building reproducible research artifacts and clear, useful ways to communicate results
 
-- [Portfólio](https://diegopn.github.io/)
-- [Teológico](https://teologico.club/)
+## Connect
+
+- [Portfolio](https://diegopn.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/diegopn/)
+- [Teológico](https://teologico.club/)
