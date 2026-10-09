@@ -22,6 +22,10 @@ My current research investigates privacy documentation in open-source Artificial
 
 The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility.
 
+### Privacy Legislation in Open Source AI/ML Projects
+
+[Privacy Legislation in Open Source AI/ML Projects](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) — a study of privacy legislation mentions in AI/ML projects on GitHub and Hugging Face. [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf).
+
 ## Selected projects
 
 1. [Ovenbird](https://diegopn.github.io/ovenbird-site/) — a native LaTeX editor for GNOME with a local BibTeX library. [Source code](https://github.com/diegopn/ovenbird).
