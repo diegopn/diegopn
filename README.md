@@ -22,9 +22,12 @@ My current research investigates privacy documentation in open-source Artificial
 
 The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility.
 
-## Selected project
+## Selected projects
 
-- [diegopn.github.io](https://github.com/diegopn/diegopn.github.io) — personal portfolio with professional information, education, skills, and projects.
+1. [Ovenbird](https://diegopn.github.io/ovenbird-site/) — a native LaTeX editor for GNOME with a local BibTeX library. [Source code](https://github.com/diegopn/ovenbird).
+2. [AI/ML Privacy Documentation — GDPR](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) — an R-based study of privacy documentation in open-source AI/ML repositories. [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr).
+3. [Privacy Legislation in Open Source AI/ML Projects](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) — a study of privacy legislation mentions in AI/ML projects on GitHub and Hugging Face. [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf).
+4. [diegopn.github.io](https://diegopn.github.io/) — personal portfolio with professional information, education, skills, and projects. [Source code](https://github.com/diegopn/diegopn.github.io).
 
 ## Currently
 
