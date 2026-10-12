@@ -18,7 +18,7 @@ My current research investigates privacy documentation in open-source Artificial
 
 ### Privacy documentation in open-source AI/ML projects
 
-[github-ai-ml-privacy-documentation-gdpr](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr) — an R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
+[AI/ML Privacy Documentation — GDPR](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) — an R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages. [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr).
 
 The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility.
 
@@ -31,7 +31,8 @@ The project preserves versioned inputs, evidence excerpts, datasets, figures, re
 1. [Ovenbird](https://diegopn.github.io/ovenbird-site/) — a native LaTeX editor for GNOME with a local BibTeX library. [Source code](https://github.com/diegopn/ovenbird).
 2. [AI/ML Privacy Documentation — GDPR](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) — an R-based study of privacy documentation in open-source AI/ML repositories. [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr).
 3. [Privacy Legislation in Open Source AI/ML Projects](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) — a study of privacy legislation mentions in AI/ML projects on GitHub and Hugging Face. [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf).
-4. [diegopn.github.io](https://diegopn.github.io/) — personal portfolio with professional information, education, skills, and projects. [Source code](https://github.com/diegopn/diegopn.github.io).
+4. [Bellbird](https://diegopn.github.io/bellbird-site/) — a document converter for academic LaTeX, with academic templates and local processing. [Source code](https://github.com/diegopn/bellbird).
+5. [diegopn.github.io](https://diegopn.github.io/) — personal portfolio with professional information, education, skills, and projects. [Source code](https://github.com/diegopn/diegopn.github.io).
 
 ## Currently
 
