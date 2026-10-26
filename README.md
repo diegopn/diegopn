@@ -12,31 +12,32 @@ My current research investigates privacy documentation in open-source Artificial
 
 Native Linux applications built with Rust, GTK 4, and Libadwaita.
 
-<a href="https://diegopn.github.io/ovenbird-site/">
-  <img src="https://raw.githubusercontent.com/diegopn/ovenbird/main/data/io.github.diegopn.ovenbird.svg" alt="Ovenbird icon" width="72" height="72">
-</a>
-
-### [Ovenbird](https://diegopn.github.io/ovenbird-site/)
-
-A LaTeX writing workspace for GNOME, with source and visual editing, a local BibTeX library, and PDF compilation and preview.
-
-[Website](https://diegopn.github.io/ovenbird-site/) · [Download (Flatpak)](https://github.com/diegopn/ovenbird/releases/latest) · [Source code](https://github.com/diegopn/ovenbird)
-
-<a href="https://diegopn.github.io/bellbird-site/">
-  <img src="https://raw.githubusercontent.com/diegopn/bellbird/main/data/icons/hicolor/scalable/apps/io.github.diegopn.Bellbird.svg" alt="Bellbird icon" width="72" height="72">
-</a>
-
-### [Bellbird](https://diegopn.github.io/bellbird-site/)
-
-A document converter for GNOME that turns Word, Markdown, EPUB, and other formats into structured LaTeX, with academic templates and local processing.
-
-[Website](https://diegopn.github.io/bellbird-site/) · [Download (Flatpak)](https://github.com/diegopn/bellbird/releases/latest) · [Source code](https://github.com/diegopn/bellbird)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://diegopn.github.io/ovenbird-site/">
+        <img src="https://raw.githubusercontent.com/diegopn/ovenbird/main/data/io.github.diegopn.ovenbird.svg" alt="Ovenbird icon" width="72" height="72">
+      </a>
+      <h3><a href="https://diegopn.github.io/ovenbird-site/">Ovenbird</a></h3>
+      <p>A LaTeX writing workspace for GNOME, with source and visual editing, a local BibTeX library, and PDF compilation and preview.</p>
+      <p><a href="https://diegopn.github.io/ovenbird-site/">Website</a> · <a href="https://github.com/diegopn/ovenbird/releases/latest">Download (Flatpak)</a> · <a href="https://github.com/diegopn/ovenbird">Source code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://diegopn.github.io/bellbird-site/">
+        <img src="https://raw.githubusercontent.com/diegopn/bellbird/main/data/icons/hicolor/scalable/apps/io.github.diegopn.Bellbird.svg" alt="Bellbird icon" width="72" height="72">
+      </a>
+      <h3><a href="https://diegopn.github.io/bellbird-site/">Bellbird</a></h3>
+      <p>A document converter for GNOME that turns Word, Markdown, EPUB, and other formats into structured LaTeX, with academic templates and local processing.</p>
+      <p><a href="https://diegopn.github.io/bellbird-site/">Website</a> · <a href="https://github.com/diegopn/bellbird/releases/latest">Download (Flatpak)</a> · <a href="https://github.com/diegopn/bellbird">Source code</a></p>
+    </td>
+  </tr>
+</table>
 
 Both applications are available as Flatpak packages for Linux x86_64.
 
 ## Research
 
-### [AI/ML Privacy Documentation — GDPR](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/)
+### AI/ML Privacy Documentation — GDPR
 
 An R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
 
@@ -44,7 +45,7 @@ The project preserves versioned inputs, evidence excerpts, datasets, figures, re
 
 [Research website](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) · [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr)
 
-### [Privacy Legislation in Open Source AI/ML Projects](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/)
+### Privacy Legislation in Open Source AI/ML Projects
 
 A study of privacy legislation mentions in AI/ML projects on GitHub and Hugging Face.
 
@@ -52,13 +53,13 @@ A study of privacy legislation mentions in AI/ML projects on GitHub and Hugging 
 
 ## Other Projects
 
-### [Nidara](https://diegopn.github.io/nidara/)
+### Nidara
 
 A scientific discovery platform that searches publications, authors, and datasets across OpenAlex, Crossref, and DataCite, with filters, saved items, and BibTeX, RIS, and CSV exports.
 
 [Website](https://diegopn.github.io/nidara/) · [Source code](https://github.com/diegopn/nidara)
 
-### [Personal Portfolio](https://diegopn.github.io/)
+### Personal Portfolio
 
 Professional background, education, skills, and projects.
 
