@@ -18,7 +18,7 @@ Native Linux applications built with Rust, GTK 4, and Libadwaita.
       <a href="https://diegopn.github.io/ovenbird-site/">
         <img src="https://raw.githubusercontent.com/diegopn/ovenbird/main/data/io.github.diegopn.ovenbird.svg" alt="Ovenbird icon" width="72" height="72">
       </a>
-      <h3><a href="https://diegopn.github.io/ovenbird-site/">Ovenbird</a></h3>
+      <h3>Ovenbird</h3>
       <p>A LaTeX writing workspace for GNOME, with source and visual editing, a local BibTeX library, and PDF compilation and preview.</p>
       <p><a href="https://diegopn.github.io/ovenbird-site/">Website</a> · <a href="https://github.com/diegopn/ovenbird/releases/latest">Download (Flatpak)</a> · <a href="https://github.com/diegopn/ovenbird">Source code</a></p>
     </td>
@@ -26,7 +26,7 @@ Native Linux applications built with Rust, GTK 4, and Libadwaita.
       <a href="https://diegopn.github.io/bellbird-site/">
         <img src="https://raw.githubusercontent.com/diegopn/bellbird/main/data/icons/hicolor/scalable/apps/io.github.diegopn.Bellbird.svg" alt="Bellbird icon" width="72" height="72">
       </a>
-      <h3><a href="https://diegopn.github.io/bellbird-site/">Bellbird</a></h3>
+      <h3>Bellbird</h3>
       <p>A document converter for GNOME that turns Word, Markdown, EPUB, and other formats into structured LaTeX, with academic templates and local processing.</p>
       <p><a href="https://diegopn.github.io/bellbird-site/">Website</a> · <a href="https://github.com/diegopn/bellbird/releases/latest">Download (Flatpak)</a> · <a href="https://github.com/diegopn/bellbird">Source code</a></p>
     </td>
