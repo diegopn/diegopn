@@ -8,9 +8,9 @@ My current research investigates privacy documentation in open-source Artificial
 
 **[Sponsor my open-source work on GitHub Sponsors](https://github.com/sponsors/diegopn)**
 
-## GNOME Applications
+## Applications & Developer Tools
 
-Native Linux applications built with Rust, GTK 4, and Libadwaita.
+I build software for academic writing, document workflows, and programming education.
 
 <table>
   <tr>
@@ -19,7 +19,7 @@ Native Linux applications built with Rust, GTK 4, and Libadwaita.
         <img src="https://raw.githubusercontent.com/diegopn/ovenbird/main/data/io.github.diegopn.ovenbird.svg" alt="Ovenbird icon" width="72" height="72">
       </a>
       <h3>Ovenbird</h3>
-      <p>A LaTeX writing workspace for GNOME, with source and visual editing, a local BibTeX library, and PDF compilation and preview.</p>
+      <p>A LaTeX writing workspace for academic projects, with source and visual editing, a local BibTeX library, and PDF compilation and preview.</p>
       <p><a href="https://diegopn.github.io/ovenbird-site/">Website</a> · <a href="https://github.com/diegopn/ovenbird/releases/latest">Download (Flatpak)</a> · <a href="https://github.com/diegopn/ovenbird">Source code</a></p>
     </td>
     <td width="50%" valign="top">
@@ -27,13 +27,21 @@ Native Linux applications built with Rust, GTK 4, and Libadwaita.
         <img src="https://raw.githubusercontent.com/diegopn/bellbird/main/data/icons/hicolor/scalable/apps/io.github.diegopn.Bellbird.svg" alt="Bellbird icon" width="72" height="72">
       </a>
       <h3>Bellbird</h3>
-      <p>A document converter for GNOME that turns Word, Markdown, EPUB, and other formats into structured LaTeX, with academic templates and local processing.</p>
+      <p>Converts Word, Markdown, EPUB, and other formats into structured LaTeX, with academic templates and local processing.</p>
       <p><a href="https://diegopn.github.io/bellbird-site/">Website</a> · <a href="https://github.com/diegopn/bellbird/releases/latest">Download (Flatpak)</a> · <a href="https://github.com/diegopn/bellbird">Source code</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://diegopn.github.io/potoo-site/">
+        <img src="https://raw.githubusercontent.com/diegopn/potoo-site/main/src/assets/images/potoo-mark.svg" alt="Potoo IDE icon" width="72" height="72">
+      </a>
+      <h3>Potoo IDE</h3>
+      <p>A desktop IDE in development for students and teachers learning programming logic with pseudocode in Portuguese.</p>
+      <p><a href="https://diegopn.github.io/potoo-site/">Website</a> · <a href="https://github.com/diegopn/potoo-ide">Source code</a></p>
+    </td>
+  </tr>
 </table>
-
-Both applications are available as Flatpak packages for Linux x86_64.
 
 ## Research
 
