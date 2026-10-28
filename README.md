@@ -12,7 +12,7 @@ My current research investigates privacy documentation in open-source Artificial
 
 I build software for academic writing, document workflows, and programming education.
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <a href="https://diegopn.github.io/ovenbird-site/">
@@ -31,8 +31,11 @@ I build software for academic writing, document workflows, and programming educa
       <p><a href="https://diegopn.github.io/bellbird-site/">Website</a> · <a href="https://github.com/diegopn/bellbird/releases/latest">Download (Flatpak)</a> · <a href="https://github.com/diegopn/bellbird">Source code</a></p>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
-    <td colspan="2" valign="top">
+    <td width="100%" valign="top">
       <a href="https://diegopn.github.io/potoo-site/">
         <img src="https://raw.githubusercontent.com/diegopn/potoo-site/main/src/assets/images/potoo-mark.svg" alt="Potoo IDE icon" width="72" height="72">
       </a>
