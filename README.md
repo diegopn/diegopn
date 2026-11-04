@@ -59,6 +59,14 @@ A study of privacy legislation mentions in AI/ML projects on GitHub and Hugging 
 
 [Research website](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) · [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf)
 
+## Programming Languages and Pseudolanguages
+
+These interpreter projects are part of Potoo IDE and are maintained in standalone repositories. An interpreter reads and runs a program according to a language's syntax and rules. Portugol has no single syntax: the four dialects in this project are G-Portugol, Portugol Mapler, Portugol Studio 2.0, and VisuAlg.
+
+**Portugol dialects:** [G-Portugol](https://github.com/diegopn/potoo-gportugol-interpreter) · [Portugol Mapler](https://github.com/diegopn/potoo-portugol-mapler-interpreter) · [Portugol Studio 2.0](https://github.com/diegopn/potoo-portugol-studio-2-interpreter) · [VisuAlg](https://github.com/diegopn/potoo-portugol-visualg-interpreter)
+
+**Other educational languages:** [Calango](https://github.com/diegopn/potoo-calango-interpreter), a Portuguese pseudocode system, and [Potigol](https://github.com/diegopn/potoo-potigol-interpreter), a programming language with Portuguese syntax.
+
 ## Other Projects
 
 ### Nidara
