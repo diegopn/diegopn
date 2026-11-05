@@ -20,7 +20,7 @@ I build software for academic writing, document workflows, and programming educa
       </a>
       <h3>Ovenbird</h3>
       <p>A LaTeX writing workspace for academic projects, with source and visual editing, a local BibTeX library, and PDF compilation and preview.</p>
-      <p><a href="https://diegopn.github.io/ovenbird-site/">Website</a> · <a href="https://github.com/diegopn/ovenbird/releases/latest">Download (Flatpak)</a> · <a href="https://github.com/diegopn/ovenbird">Source code</a></p>
+      <p><a href="https://diegopn.github.io/ovenbird-site/">Website</a> · <a href="https://github.com/diegopn/ovenbird/releases/latest">Download</a> · <a href="https://github.com/diegopn/ovenbird">Source code</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://diegopn.github.io/bellbird-site/">
@@ -28,7 +28,7 @@ I build software for academic writing, document workflows, and programming educa
       </a>
       <h3>Bellbird</h3>
       <p>Converts Word, Markdown, EPUB, and other formats into structured LaTeX, with academic templates and local processing.</p>
-      <p><a href="https://diegopn.github.io/bellbird-site/">Website</a> · <a href="https://github.com/diegopn/bellbird/releases/latest">Download (Flatpak)</a> · <a href="https://github.com/diegopn/bellbird">Source code</a></p>
+      <p><a href="https://diegopn.github.io/bellbird-site/">Website</a> · <a href="https://github.com/diegopn/bellbird/releases/latest">Download</a> · <a href="https://github.com/diegopn/bellbird">Source code</a></p>
     </td>
   </tr>
   <tr>
@@ -38,7 +38,7 @@ I build software for academic writing, document workflows, and programming educa
       </a>
       <h3>Potoo IDE</h3>
       <p>A desktop IDE in development for students and teachers learning programming logic with pseudocode in Portuguese.</p>
-      <p><a href="https://diegopn.github.io/potoo-site/">Website</a> · <a href="https://github.com/diegopn/potoo-ide">Source code</a></p>
+      <p><a href="https://diegopn.github.io/potoo-site/">Website</a> · <a href="https://diegopn.github.io/potoo-site/#download">Download</a> · <a href="https://github.com/diegopn/potoo-ide">Source code</a></p>
     </td>
   </tr>
 </table>
