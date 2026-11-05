@@ -60,22 +60,25 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
 
 ### AI/ML Privacy Documentation — GDPR
 
-Examines how public AI/ML repositories on GitHub document privacy over time.
+An R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
 
-<details>
-<summary>Methods, data and outputs</summary>
-
-- Uses R to select public repositories and collect historical privacy documents.
-- Classifies evidence and performs statistical analysis.
-- Publishes through Quarto and GitHub Pages, preserving versioned inputs, excerpts, datasets, figures, reports, and metadata for reproducibility.
-
-</details>
+The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility.
 
 [Research website](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) · [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr)
 
+---
+
 ### Privacy Legislation in Open Source AI/ML Projects
 
-Studies references to privacy legislation in AI/ML projects on GitHub and Hugging Face.
+An R6-based program identifies references to the GDPR, CCPA, CPRA, and Data Protection Act in GitHub issues and Hugging Face Discussions. It records evidence, selects repositories, and prepares data for analysis.
+
+The study asks:
+
+- Which privacy rights and principles are mentioned? The issue's initial text is analyzed separately from comments.
+- What concerns appear, and how do they map to the 24 categories in the study framework?
+- Which of nine AI/ML/LLM development stages do those concerns relate to?
+
+GitHub and Hugging Face appear across all three questions; broader open-source projects provide a comparison for the first two. Mentions indicate discussion, not legal compliance or violation.
 
 [Research website](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) · [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf)
 ## ✨ Other Projects
