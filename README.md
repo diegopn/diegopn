@@ -58,10 +58,31 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
 
 ## 🔬 Research
 
-| Study | Description |
-| --- | --- |
-| **AI/ML Privacy Documentation — GDPR**<br><br>[Research website](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) · [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr) | An R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.<br><br>The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility. |
-| **Privacy Legislation in Open Source AI/ML Projects**<br><br>[Research website](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) · [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf) | An R6-based program identifies mentions of the GDPR, CCPA, CPRA, and Data Protection Act in GitHub issues and Hugging Face Discussions. It records supporting evidence, selects repositories, and prepares data for analysis.<br><br>It asks which privacy rights and principles are mentioned (analyzing initial issue text separately from comments), what concerns appear and how they map to the study's 24 categories, and which of nine AI/ML/LLM development stages those concerns relate to. GitHub and Hugging Face feature in all three questions; broader open-source projects provide a comparison for the first two. Mentions indicate discussion, not legal compliance or violation. |
+### AI/ML Privacy Documentation — GDPR
+
+**Study:** An R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
+
+**Reproducibility:** The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility.
+
+[Research website](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) · [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr)
+
+---
+
+### Privacy Legislation in Open Source AI/ML Projects
+
+**Study:** An R6-based program identifies mentions of the GDPR, CCPA, CPRA, and Data Protection Act in GitHub issues and Hugging Face Discussions. It records supporting evidence, selects repositories, and prepares data for analysis.
+
+**Research questions:**
+
+- Which privacy rights and principles are mentioned? The issue's initial text is analyzed separately from comments.
+- What concerns appear, and how do they map to the 24 categories in the study framework?
+- Which of nine AI/ML/LLM development stages do those concerns relate to?
+
+**Scope:** GitHub and Hugging Face appear across all three questions; broader open-source projects provide a comparison for the first two.
+
+**Interpretation:** Mentions indicate discussion, not legal compliance or violation.
+
+[Research website](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) · [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf)
 ## ✨ Other Projects
 
 ### Nidara
