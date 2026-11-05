@@ -1,4 +1,4 @@
-# Diego Pereira do Nascimento
+# 👋 Diego Pereira do Nascimento
 
 **Project Leadership • Software Engineering • AI/ML Privacy Research**
 
@@ -6,9 +6,7 @@ Master's student at PPGI, focused on applied research and on organizing technolo
 
 My current research investigates privacy documentation in open-source Artificial Intelligence and Machine Learning projects on GitHub. It combines historical data collection, document classification, statistical analysis, and reproducible publication of results.
 
-**[Sponsor my open-source work on GitHub Sponsors](https://github.com/sponsors/diegopn)**
-
-## Applications & Developer Tools
+## 🧰 Applications & Developer Tools
 
 I build software for academic writing, document workflows, and programming education.
 
@@ -43,9 +41,9 @@ I build software for academic writing, document workflows, and programming educa
   </tr>
 </table>
 
-## Research
+## 🔬 Research
 
-### AI/ML Privacy Documentation — GDPR
+### 🔒 AI/ML Privacy Documentation — GDPR
 
 An R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
 
@@ -53,13 +51,13 @@ The project preserves versioned inputs, evidence excerpts, datasets, figures, re
 
 [Research website](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) · [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr)
 
-### Privacy Legislation in Open Source AI/ML Projects
+### ⚖️ Privacy Legislation in Open Source AI/ML Projects
 
 A study of privacy legislation mentions in AI/ML projects on GitHub and Hugging Face.
 
 [Research website](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) · [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf)
 
-## Programming Languages and Pseudolanguages
+## 💻 Programming Languages and Pseudolanguages
 
 These interpreter projects are part of Potoo IDE and are maintained in standalone repositories. An interpreter reads and runs a program according to a language's syntax and rules.
 
@@ -67,21 +65,21 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
 
 **Other educational languages:** [Calango](https://github.com/diegopn/potoo-calango-interpreter), a Portuguese pseudocode system, and [Potigol](https://github.com/diegopn/potoo-potigol-interpreter), a programming language with Portuguese syntax.
 
-## Other Projects
+## ✨ Other Projects
 
-### Nidara
+### 🔎 Nidara
 
 A scientific discovery platform that searches publications, authors, and datasets across OpenAlex, Crossref, and DataCite, with filters, saved items, and BibTeX, RIS, and CSV exports.
 
 [Website](https://diegopn.github.io/nidara/) · [Source code](https://github.com/diegopn/nidara)
 
-### Personal Portfolio
+### 🌐 Personal Portfolio
 
 Professional background, education, skills, and projects.
 
 [Website](https://diegopn.github.io/) · [Source code](https://github.com/diegopn/diegopn.github.io)
 
-## Current Focus
+## 🎯 Current Focus
 
 - Leadership and coordination of technology and research projects
 - Software Engineering and reproducible development practices
@@ -89,20 +87,23 @@ Professional background, education, skills, and projects.
 - Privacy documentation in open-source ecosystems
 - Academic projects, data analysis, and research communication
 
-## Currently
+## 🚀 Currently
 
 - Completing my master's research at PPGI
 - Evolving the study of privacy documentation in open-source AI/ML projects
 - Building reproducible research artifacts and clear, useful ways to communicate results
 
-## Support My Work
+## 💛 Support My Work
 
 Sponsorship supports the development and maintenance of Ovenbird and Bellbird, research projects in R, bug fixes, documentation, translations, and new releases.
 
 [Become a sponsor on GitHub](https://github.com/sponsors/diegopn)
 
-## Connect
+## 🔗 Connect
 
-- [Portfolio](https://diegopn.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/diegopn/)
-- [Teológico](https://teologico.club/)
+<p align="left">
+  <a href="https://diegopn.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" height="40"></a>
+  <a href="https://www.linkedin.com/in/diegopn/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
+  <a href="https://teologico.club/"><img src="https://img.shields.io/badge/Teol%C3%B3gico-Website-5D4B8C?style=for-the-badge&logo=bookstack&logoColor=white" alt="Teológico" height="40"></a>
+  <a href="https://orcid.org/0009-0008-6487-9890"><img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="40"></a>
+</p>
