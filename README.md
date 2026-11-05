@@ -7,8 +7,8 @@ Master's student at PPGI, focused on applied research and on organizing technolo
 My current research investigates privacy documentation in open-source Artificial Intelligence and Machine Learning projects on GitHub. It combines historical data collection, document classification, statistical analysis, and reproducible publication of results.
 
 <p align="left">
-  <a href="https://diegopn.github.io/"><img src="https://img.shields.io/badge/diegopn.github.io-555555?style=for-the-badge" alt="diegopn.github.io" height="40"></a>
-  <a href="https://www.linkedin.com/in/diegopn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
+  <a href="https://diegopn.github.io/"><img src="https://img.shields.io/badge/diegopn.github.io-555555?style=for-the-badge&logo=github&logoColor=white" alt="diegopn.github.io" height="40"></a>
+  <a href="https://www.linkedin.com/in/diegopn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMiA4aDR2MTRIMnpNOSA4aDR2MmguMWMuNy0xLjIgMi0yLjQgNC40LTIuNCA0LjcgMCA1LjYgMi42IDUuNiA2LjVWMjJoLTR2LTdjMC0xLjcgMC0zLjgtMi4zLTMuOHMtMi43IDEuOC0yLjcgMy43djdIOXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn" height="40"></a>
   <a href="https://teologico.club/"><img src="https://img.shields.io/badge/-Teol%C3%B3gico-5D4B8C?style=for-the-badge&logo=bookstack&logoColor=white" alt="Teológico" height="40"></a>
   <a href="https://orcid.org/0009-0008-6487-9890"><img src="https://img.shields.io/badge/-ORCID-3F750A?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="40"></a>
 </p>
@@ -105,5 +105,5 @@ Professional background, education, skills, and projects.
 Sponsorship supports the development and maintenance of Ovenbird and Bellbird, research projects in R, bug fixes, documentation, translations, and new releases.
 
 <p align="left">
-  <a href="https://github.com/sponsors/diegopn"><img src="https://img.shields.io/badge/-Become%20a%20sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Become a sponsor on GitHub" height="40"></a>
+  <a href="https://github.com/sponsors/diegopn"><img src="https://img.shields.io/badge/-Become%20a%20sponsor-B82B6D?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Become a sponsor on GitHub" height="40"></a>
 </p>
