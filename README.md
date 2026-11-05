@@ -8,9 +8,9 @@ My current research investigates privacy documentation in open-source Artificial
 
 <p align="left">
   <a href="https://diegopn.github.io/"><img src="https://img.shields.io/badge/Portfolio-diegopn.github.io-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio: diegopn.github.io" height="40"></a>
-  <a href="https://www.linkedin.com/in/diegopn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
-  <a href="https://teologico.club/"><img src="https://img.shields.io/badge/Teol%C3%B3gico-5D4B8C?style=for-the-badge&logo=bookstack&logoColor=white" alt="Teológico" height="40"></a>
-  <a href="https://orcid.org/0009-0008-6487-9890"><img src="https://img.shields.io/badge/ORCID-3F750A?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="40"></a>
+  <a href="https://www.linkedin.com/in/diegopn/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
+  <a href="https://teologico.club/"><img src="https://img.shields.io/badge/-Teol%C3%B3gico-5D4B8C?style=for-the-badge&logo=bookstack&logoColor=white" alt="Teológico" height="40"></a>
+  <a href="https://orcid.org/0009-0008-6487-9890"><img src="https://img.shields.io/badge/-ORCID-3F750A?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="40"></a>
 </p>
 
 ## 🧰 Applications & Developer Tools
