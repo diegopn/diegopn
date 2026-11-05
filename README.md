@@ -6,6 +6,13 @@ Master's student at PPGI, focused on applied research and on organizing technolo
 
 My current research investigates privacy documentation in open-source Artificial Intelligence and Machine Learning projects on GitHub. It combines historical data collection, document classification, statistical analysis, and reproducible publication of results.
 
+<p align="left">
+  <a href="https://diegopn.github.io/"><img src="https://img.shields.io/badge/Portfolio-diegopn.github.io-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio: diegopn.github.io" height="40"></a>
+  <a href="https://www.linkedin.com/in/diegopn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
+  <a href="https://teologico.club/"><img src="https://img.shields.io/badge/Teol%C3%B3gico-5D4B8C?style=for-the-badge&logo=bookstack&logoColor=white" alt="Teológico" height="40"></a>
+  <a href="https://orcid.org/0009-0008-6487-9890"><img src="https://img.shields.io/badge/ORCID-3F750A?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="40"></a>
+</p>
+
 ## 🧰 Applications & Developer Tools
 
 I build software for academic writing, document workflows, and programming education.
@@ -43,7 +50,7 @@ I build software for academic writing, document workflows, and programming educa
 
 ## 🔬 Research
 
-### 🔒 AI/ML Privacy Documentation — GDPR
+### AI/ML Privacy Documentation — GDPR
 
 An R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
 
@@ -51,7 +58,7 @@ The project preserves versioned inputs, evidence excerpts, datasets, figures, re
 
 [Research website](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) · [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr)
 
-### ⚖️ Privacy Legislation in Open Source AI/ML Projects
+### Privacy Legislation in Open Source AI/ML Projects
 
 A study of privacy legislation mentions in AI/ML projects on GitHub and Hugging Face.
 
@@ -67,13 +74,13 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
 
 ## ✨ Other Projects
 
-### 🔎 Nidara
+### Nidara
 
 A scientific discovery platform that searches publications, authors, and datasets across OpenAlex, Crossref, and DataCite, with filters, saved items, and BibTeX, RIS, and CSV exports.
 
 [Website](https://diegopn.github.io/nidara/) · [Source code](https://github.com/diegopn/nidara)
 
-### 🌐 Personal Portfolio
+### Personal Portfolio
 
 Professional background, education, skills, and projects.
 
@@ -98,12 +105,3 @@ Professional background, education, skills, and projects.
 Sponsorship supports the development and maintenance of Ovenbird and Bellbird, research projects in R, bug fixes, documentation, translations, and new releases.
 
 [Become a sponsor on GitHub](https://github.com/sponsors/diegopn)
-
-## 🔗 Connect
-
-<p align="left">
-  <a href="https://diegopn.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" height="40"></a>
-  <a href="https://www.linkedin.com/in/diegopn/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"></a>
-  <a href="https://teologico.club/"><img src="https://img.shields.io/badge/Teol%C3%B3gico-Website-5D4B8C?style=for-the-badge&logo=bookstack&logoColor=white" alt="Teológico" height="40"></a>
-  <a href="https://orcid.org/0009-0008-6487-9890"><img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="40"></a>
-</p>
