@@ -104,4 +104,6 @@ Professional background, education, skills, and projects.
 
 Sponsorship supports the development and maintenance of Ovenbird and Bellbird, research projects in R, bug fixes, documentation, translations, and new releases.
 
-[Become a sponsor on GitHub](https://github.com/sponsors/diegopn)
+<p align="left">
+  <a href="https://github.com/sponsors/diegopn"><img src="https://img.shields.io/badge/-Become%20a%20sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Become a sponsor on GitHub" height="40"></a>
+</p>
