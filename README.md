@@ -60,19 +60,24 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
 
 ### AI/ML Privacy Documentation — GDPR
 
-An R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
+Examines how public AI/ML repositories on GitHub document privacy over time.
 
-The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility.
+<details>
+<summary>Methods, data and outputs</summary>
+
+- Uses R to select public repositories and collect historical privacy documents.
+- Classifies evidence and performs statistical analysis.
+- Publishes through Quarto and GitHub Pages, preserving versioned inputs, excerpts, datasets, figures, reports, and metadata for reproducibility.
+
+</details>
 
 [Research website](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) · [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr)
 
 ### Privacy Legislation in Open Source AI/ML Projects
 
-A study of privacy legislation mentions in AI/ML projects on GitHub and Hugging Face.
+Studies references to privacy legislation in AI/ML projects on GitHub and Hugging Face.
 
 [Research website](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) · [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf)
-
-
 ## ✨ Other Projects
 
 ### Nidara
@@ -89,18 +94,11 @@ Professional background, education, skills, and projects.
 
 ## 🎯 Current Focus
 
-- Leadership and coordination of technology and research projects
-- Software Engineering and reproducible development practices
-- Artificial Intelligence and Machine Learning (AI/ML)
-- Privacy documentation in open-source ecosystems
-- Academic projects, data analysis, and research communication
-
-## 🚀 Currently
-
-- Completing my master's research at PPGI
-- Evolving the study of privacy documentation in open-source AI/ML projects
-- Building reproducible research artifacts and clear, useful ways to communicate results
-
+| Area | Current work |
+| --- | --- |
+| Research | Completing my master's research at PPGI on privacy documentation in open-source AI/ML, with reproducible data and clear communication of findings. |
+| Software engineering | Building tools for academic writing and programming education with reproducible development practices. |
+| Leadership | Coordinating technology and research projects. |
 ## 💛 Support My Work
 
 Sponsorship supports the development and maintenance of Ovenbird and Bellbird, research projects in R, bug fixes, documentation, translations, and new releases.
