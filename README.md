@@ -92,7 +92,7 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
 
 ## ✨ Other Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>Nidara</h3>
