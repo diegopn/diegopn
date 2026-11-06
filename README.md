@@ -104,7 +104,7 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
   <tr>
     <td width="50%" valign="top">
       <h3>Nidara</h3>
-      <p>A scientific discovery platform for searching publications, authors, and datasets across OpenAlex, Crossref, and DataCite, with filters, saved items, and BibTeX, RIS, or CSV exports.</p>
+      <p>A platform for searching publications, authors, and datasets across OpenAlex, Crossref, and DataCite, with filters, saved items, and BibTeX, RIS, or CSV exports.</p>
       <p><a href="https://diegopn.github.io/nidara/">Website</a> · <a href="https://github.com/diegopn/nidara">Source code</a></p>
     </td>
     <td width="50%" valign="top">
