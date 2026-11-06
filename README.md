@@ -19,36 +19,34 @@ I build software for academic writing, document workflows, and programming educa
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <a href="https://diegopn.github.io/ovenbird-site/">
         <img src="https://raw.githubusercontent.com/diegopn/ovenbird/main/data/io.github.diegopn.ovenbird.svg" alt="Ovenbird icon" width="72" height="72">
       </a>
       <h3>Ovenbird</h3>
-      <p>A LaTeX writing workspace for academic projects, with source and visual editing, a local BibTeX library, and PDF compilation and preview.</p>
-      <p><a href="https://diegopn.github.io/ovenbird-site/">Website</a> · <a href="https://github.com/diegopn/ovenbird/releases/latest">Download</a> · <a href="https://github.com/diegopn/ovenbird">Source code</a></p>
+      <p>Academic LaTeX editor with visual and source editing, BibTeX, and PDF preview.</p>
+      <p><a href="https://diegopn.github.io/ovenbird-site/">Website</a> · <a href="https://github.com/diegopn/ovenbird/releases/latest">Download</a> · <a href="https://github.com/diegopn/ovenbird">GitHub</a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <a href="https://diegopn.github.io/bellbird-site/">
         <img src="https://raw.githubusercontent.com/diegopn/bellbird/main/data/icons/hicolor/scalable/apps/io.github.diegopn.Bellbird.svg" alt="Bellbird icon" width="72" height="72">
       </a>
       <h3>Bellbird</h3>
-      <p>Converts Word, Markdown, EPUB, and other formats into structured LaTeX, with academic templates and local processing.</p>
-      <p><a href="https://diegopn.github.io/bellbird-site/">Website</a> · <a href="https://github.com/diegopn/bellbird/releases/latest">Download</a> · <a href="https://github.com/diegopn/bellbird">Source code</a></p>
+      <p>Converts Word, Markdown, and EPUB to LaTeX locally, with academic templates.</p>
+      <p><a href="https://diegopn.github.io/bellbird-site/">Website</a> · <a href="https://github.com/diegopn/bellbird/releases/latest">Download</a> · <a href="https://github.com/diegopn/bellbird">GitHub</a></p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="33.33%" valign="top">
       <a href="https://diegopn.github.io/potoo-site/">
         <img src="https://raw.githubusercontent.com/diegopn/potoo-site/main/src/assets/images/potoo-mark.svg" alt="Potoo IDE icon" width="72" height="72">
       </a>
       <h3>Potoo IDE</h3>
-      <p>A desktop IDE in development for students and teachers learning programming logic with pseudocode in Portuguese.</p>
-      <p><a href="https://diegopn.github.io/potoo-site/">Website</a> · <a href="https://diegopn.github.io/potoo-site/#download">Download</a> · <a href="https://github.com/diegopn/potoo-ide">Source code</a></p>
+      <p>IDE in development for learning programming logic with Portuguese pseudocode.</p>
+      <p><a href="https://diegopn.github.io/potoo-site/">Website</a> · <a href="https://diegopn.github.io/potoo-site/#download">Download</a> · <a href="https://github.com/diegopn/potoo-ide">GitHub</a></p>
     </td>
   </tr>
 </table>
 
-### Programming Languages and Pseudolanguages
+### Interpreters for Programming Languages and Pseudolanguages
 
 These interpreter projects are part of Potoo IDE and are maintained in standalone repositories. An interpreter reads and runs a program according to a language's syntax and rules.
 
