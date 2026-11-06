@@ -103,14 +103,14 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Nidara</h3>
+      <p><strong>Nidara</strong></p>
       <p>A platform for searching publications, authors, and datasets across OpenAlex, Crossref, and DataCite, with filters, saved items, and BibTeX, RIS, or CSV exports.</p>
-      <p><a href="https://diegopn.github.io/nidara/">Website</a> · <a href="https://github.com/diegopn/nidara">Source code</a></p>
+      <a href="https://diegopn.github.io/nidara/">Website</a> · <a href="https://github.com/diegopn/nidara">Source code</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Personal Portfolio</h3>
+      <p><strong>Personal Portfolio</strong></p>
       <p>Professional background, education, skills, and selected projects, highlighting work across software engineering, research, digital products, and technology leadership.</p>
-      <p><a href="https://diegopn.github.io/">Website</a> · <a href="https://github.com/diegopn/diegopn.github.io">Source code</a></p>
+      <a href="https://diegopn.github.io/">Website</a> · <a href="https://github.com/diegopn/diegopn.github.io">Source code</a>
     </td>
   </tr>
 </table>
