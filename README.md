@@ -86,14 +86,6 @@ I build software for academic writing, document workflows, and programming educa
 
 These interpreter projects are part of Potoo IDE and are maintained in standalone repositories. An interpreter reads and runs a program according to a language's syntax and rules.
 
-**Interpreters:**
-- [G-Portugol interpreter](https://github.com/diegopn/potoo-gportugol-interpreter)
-- [Portugol Mapler interpreter](https://github.com/diegopn/potoo-portugol-mapler-interpreter)
-- [Portugol Studio 2.0 interpreter](https://github.com/diegopn/potoo-portugol-studio-2-interpreter)
-- [VisuAlg interpreter](https://github.com/diegopn/potoo-portugol-visualg-interpreter)
-- [Calango interpreter](https://github.com/diegopn/potoo-calango-interpreter)
-- [Potigol interpreter](https://github.com/diegopn/potoo-potigol-interpreter)
-
 **Portugol dialects:**
 - [G-Portugol](https://github.com/diegopn/potoo-gportugol-interpreter)
 - [Portugol Mapler](https://github.com/diegopn/potoo-portugol-mapler-interpreter)
