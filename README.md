@@ -8,7 +8,7 @@ My current research investigates privacy documentation in open-source Artificial
 
 <p align="left">
   <a href="https://diegopn.github.io/"><img src="https://img.shields.io/badge/diegopn.github.io-555555?style=for-the-badge&logo=github&logoColor=white" alt="diegopn.github.io" height="40"></a>
-  <a href="https://www.linkedin.com/in/diegopn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMiA4aDR2MTRIMnpNOSA4aDR2MmguMWMuNy0xLjIgMi0yLjQgNC40LTIuNCA0LjcgMCA1LjYgMi42IDUuNiA2LjVWMjJoLTR2LTdjMC0xLjctMi4zLTMuOC0yLjMtMy44cy0yLjcgMS44LTIuNyAzLjd2N0g5eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" height="40"></a>
+  <a href="https://www.linkedin.com/in/diegopn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iNCIgY3k9IjQiIHI9IjIiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMiA4aDR2MTRIMnpNOSA4aDR2MmguMWMuNy0xLjIgMi0yLjQgNC40LTIuNCA0LjcgMCA1LjYgMi42IDUuNiA2LjVWMjJoLTR2LTdjMC0xLjcgMC0zLjgtMi4zLTMuOHMtMi43IDEuOC0yLjcgMy43djdIOXoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D&logoColor=white" alt="LinkedIn" height="40"></a>
   <a href="https://teologico.club/"><img src="https://img.shields.io/badge/-Teol%C3%B3gico-5D4B8C?style=for-the-badge&logo=bookstack&logoColor=white" alt="Teológico" height="40"></a>
   <a href="https://orcid.org/0009-0008-6487-9890"><img src="https://img.shields.io/badge/-ORCID-3F750A?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="40"></a>
 </p>
@@ -96,12 +96,12 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
   <tr>
     <td width="50%" valign="top">
       <h3>Nidara</h3>
-      <p>A scientific discovery platform that searches publications, authors, and datasets across OpenAlex, Crossref, and DataCite, with filters, saved items, and BibTeX, RIS, and CSV exports.</p>
+      <p>A discovery platform for publications, authors, and<br>datasets across OpenAlex, Crossref, and DataCite;<br>filter and save results, then export BibTeX, RIS, or CSV.</p>
       <p><a href="https://diegopn.github.io/nidara/">Website</a> · <a href="https://github.com/diegopn/nidara">Source code</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Personal Portfolio</h3>
-      <p>Professional background, education, skills, and projects.</p>
+      <p>Professional background, education, and skills,<br>with projects showcasing my work in software<br>engineering, research, and technology leadership.</p>
       <p><a href="https://diegopn.github.io/">Website</a> · <a href="https://github.com/diegopn/diegopn.github.io">Source code</a></p>
     </td>
   </tr>
