@@ -46,7 +46,7 @@ I build software for academic writing, document workflows, and programming educa
   </tr>
 </table>
 
-### Programming Languages and Pseudolanguages
+### Interpreters for Programming Languages and Pseudolanguages
 
 These interpreter projects are part of Potoo IDE and are maintained in standalone repositories. An interpreter reads and runs a program according to a language's syntax and rules.
 
