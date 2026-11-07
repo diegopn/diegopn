@@ -33,7 +33,7 @@ My current research investigates privacy documentation in open-source Artificial
 
 ---
 
-### Privacy Legislation in Open Source AI/ML Projects
+### Privacy Legislation in Open Source AI/ML Projects on GitHub
 
 **Study:** An R6-based program identifies mentions of the GDPR, CCPA, CPRA, and Data Protection Act in GitHub issues and Hugging Face Discussions. It records supporting evidence, selects repositories, and prepares data for analysis.
 
