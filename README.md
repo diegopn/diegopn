@@ -23,16 +23,6 @@ My current research investigates privacy documentation in open-source Artificial
 
 ## 🔬 Research
 
-### AI/ML Privacy Documentation on GitHub — GDPR
-
-**Study:** An R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
-
-**Reproducibility:** The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility.
-
-[Research website](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) · [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr)
-
----
-
 ### Privacy Legislation in Open Source AI/ML Projects on GitHub and Hugging Face
 
 **Study:** An R6-based program identifies mentions of the GDPR, CCPA, CPRA, and Data Protection Act in GitHub issues and Hugging Face Discussions. It records supporting evidence, selects repositories, and prepares data for analysis.
@@ -48,6 +38,16 @@ My current research investigates privacy documentation in open-source Artificial
 **Interpretation:** Mentions indicate discussion, not legal compliance or violation.
 
 [Research website](https://diegopn.github.io/msr-oss-privacy-legislation-ai-ml-gh-hf/) · [Source code](https://github.com/diegopn/msr-oss-privacy-legislation-ai-ml-gh-hf)
+
+---
+
+### AI/ML Privacy Documentation on GitHub — GDPR
+
+**Study:** An R-based experiment that selects a sample of public AI/ML repositories, collects historical privacy documentation, classifies evidence, performs statistical analysis, and publishes the results through Quarto and GitHub Pages.
+
+**Reproducibility:** The project preserves versioned inputs, evidence excerpts, datasets, figures, reports, and metadata to support traceability and reproducibility.
+
+[Research website](https://diegopn.github.io/github-ai-ml-privacy-documentation-gdpr/) · [Source code](https://github.com/diegopn/github-ai-ml-privacy-documentation-gdpr)
 
 ## 🧰 Applications & Developer Tools
 
