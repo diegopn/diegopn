@@ -89,6 +89,12 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
 **Pseudolanguages**
 - [Calango](https://github.com/diegopn/potoo-calango-interpreter)
 - [PSeInt](https://github.com/diegopn/potoo-pseint-interpreter)
+- [SL](https://github.com/diegopn/potoo-sl-interpreter)
+- [AlgoBox](https://github.com/diegopn/potoo-algobox-interpreter)
+- [LSE](https://github.com/diegopn/potoo-lse-interpreter)
+- [Glossa](https://github.com/diegopn/potoo-glossa-interpreter)
+- [AP CSP Pseudocode](https://github.com/diegopn/potoo-ap-csp-pseudocode-interpreter)
+- [Cambridge Pseudocode](https://github.com/diegopn/potoo-cambridge-pseudocode-interpreter)
 - Portugol dialects
   - [G-Portugol](https://github.com/diegopn/potoo-gportugol-interpreter)
   - [Portugol Mapler](https://github.com/diegopn/potoo-portugol-mapler-interpreter)
@@ -101,7 +107,12 @@ These interpreter projects are part of Potoo IDE and are maintained in standalon
 - [Égua](https://github.com/diegopn/potoo-egua-interpreter)
 - [C0](https://github.com/diegopn/potoo-c0-interpreter)
 - [Logic Basic](https://github.com/diegopn/potoo-logic-basic-interpreter)
-- [Karel](https://github.com/diegopn/potoo-karel-interpreter)
+- [Karel the Robot](https://github.com/diegopn/potoo-karel-interpreter)
+- [Kalimat](https://github.com/diegopn/potoo-kalimat-interpreter)
+- [Jeem](https://github.com/diegopn/potoo-jeem-interpreter)
+- [Kumir](https://github.com/diegopn/potoo-kumir-interpreter)
+- [Robot Karol](https://github.com/diegopn/potoo-robot-karol-interpreter)
+- [Hedy](https://github.com/diegopn/potoo-hedy-interpreter)
 ## ✨ Other Projects
 
 <table width="100%">
